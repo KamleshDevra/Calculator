@@ -1,0 +1,6 @@
+{
+  "name": "Tactile Desk Calculator",
+  "description": "A tactile hardware-inspired calculator web application with a high-contrast display, interactive calculation history tape, keyboard shortcuts, and beginner-friendly single-file HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
